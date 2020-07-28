@@ -1,0 +1,1 @@
+# ffxiv-interested-items-cfn
